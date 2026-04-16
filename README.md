@@ -9,12 +9,12 @@ Este projeto consiste em um dashboard estratégico de **People Analytics** desen
 ### Painel Principal
 Visão geral dos KPIs de contratação, ativos e rotatividade, com distribuição geográfica e demográfica.
 
-![Painel Principal](./dashrh.png)
+![Painel Principal](assets/dashrh.png)
 
 ### Insights Detalhados (Tooltip)
 Ao passar o mouse sobre os dados, o painel revela detalhes da folha salarial e horas extras por cargo, otimizando o espaço de tela.
 
-![Análise de Detalhes](./dashrh_tooltip.jpg)
+![Análise de Detalhes](assets/dashrh_tooltip.jpg)
 
 ---
 
