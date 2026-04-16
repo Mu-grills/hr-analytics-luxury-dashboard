@@ -14,7 +14,7 @@ Visão geral dos KPIs de contratação, ativos e rotatividade, com distribuiçã
 ### Insights Detalhados (Tooltip)
 Ao passar o mouse sobre os dados, o painel revela detalhes da folha salarial e horas extras por cargo, otimizando o espaço de tela.
 
-![Análise de Detalhes](assets/dashrh_tooltip.jpg)
+![Análise de Detalhes](assets/dashrh_tooltip.png)
 
 ---
 
